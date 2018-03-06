@@ -123,4 +123,4 @@ As a side-note, during puberty, I had periods where I'd masturbate 5-6 times a d
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

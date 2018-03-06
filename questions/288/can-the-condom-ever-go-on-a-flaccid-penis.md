@@ -68,4 +68,4 @@ Okay, so it's doable, but as you can see it's *way* easier to do it right if the
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

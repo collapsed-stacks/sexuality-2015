@@ -54,4 +54,4 @@ For example:  I am a hetero male.  I love boobs.  I love big boobs.  I love smal
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
